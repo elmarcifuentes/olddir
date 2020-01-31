@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blacklist" />
+	<group display_name="Office Directory" ring="Auto" />
+</root_group>
+<root_contact>
+	<contact display_name="Accounting" office_number="103" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Amol" office_number="121" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Andrew" office_number="131" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Bud" office_number="113" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Chad" office_number="121" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Dmitriy" office_number="121" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Dominic" office_number="132" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Elmar" office_number="130" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Huddle Room" office_number="201" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Jacob" office_number="102" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Jonathan" office_number="110" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Joseph" office_number="120" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Mario" office_number="114" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Marketing" office_number="117" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Operations" office_number="105" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Reception" office_number="100" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Ryan Root" office_number="115" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Sales/Ellie" office_number="111" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Stingray" office_number="200" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Warehouse" office_number="104" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Resource:icon_family_b.png" selected_photo="0" group_id_name="Office Directory" />
+	<contact display_name="Zach" office_number="112" mobile_number="" other_number="" line="0" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="Office Directory" />
+</root_contact>
